@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[![Mantas' GitHub stats](https://github-readme-stats.vercel.app/api?username=mantasandri&count_private=true&theme=radical&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)
+
+For the [lulz](https://bit.ly/2Z6cJDO)
+
+( ͡° ͜ʖ ͡°)
 <!--
 **mantasandri/mantasandri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
