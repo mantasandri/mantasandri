@@ -2,7 +2,7 @@
 
 [![Mantas' GitHub stats](https://github-readme-stats.vercel.app/api?username=mantasandri&count_private=true&theme=radical&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)
 
-[You know the rules...](https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=0s)
+[You know the rules...](https://www.youtube.com/watch?v=eBGIQ7ZuuiU)
 
 ( ͡° ͜ʖ ͡°)
 <!--
